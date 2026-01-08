@@ -48,7 +48,7 @@ The dataset was preprocessed and transformed into feature vectors for similarity
 
 1. **Data Preprocessing**
    - Extracted relevant features from the dataset
-   - Converted text data into numerical form using **TF-IDF**
+   - Converted text data into numerical form using **Bag of words model**
    - Combined multiple features into a single representation
 
 2. **Similarity Computation**
